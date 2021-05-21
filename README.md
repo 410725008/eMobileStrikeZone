@@ -13,6 +13,12 @@ Release Note:
 1.0.2 > 修正字串顯示，以及程式優化  
 若有任何Bug或是反饋請Email至410725008@gms.ndhu.edu.tw。  
 
-開啟本應用程式之後，會看到如此的畫面。
-左上角的icon是可以點選的，可以叫出設定選單。
-右上角為影片來源，左側為錄製影片，右側為選擇影片。
+![圖片](https://user-images.githubusercontent.com/71903791/119090898-ca515a80-ba3e-11eb-9759-b9f81dabb161.png)  
+![圖片](https://user-images.githubusercontent.com/71903791/119090950-e05f1b00-ba3e-11eb-8fdc-0c03148378b9.png)  
+![圖片](https://user-images.githubusercontent.com/71903791/119091002-f5d44500-ba3e-11eb-8d5a-2c2f4016b279.png)  
+![圖片](https://user-images.githubusercontent.com/71903791/119091044-0a184200-ba3f-11eb-8c73-ad88361c5dc2.png)  
+![圖片](https://user-images.githubusercontent.com/71903791/119091080-1bf9e500-ba3f-11eb-9ea7-6c9dc3444acc.png)  
+
+
+
+
