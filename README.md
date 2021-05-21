@@ -12,6 +12,9 @@ Release Note:
 1.0.1 > 新增間單的好/壞球判定功能  
 1.0.2 > 修正字串顯示，以及程式優化  
 若有任何Bug或是反饋請Email至410725008@gms.ndhu.edu.tw。  
+  
+    
+      
 
 ![圖片](https://user-images.githubusercontent.com/71903791/119091154-3764f000-ba3f-11eb-9337-42690bfb9293.png)   
 ![圖片](https://user-images.githubusercontent.com/71903791/119090950-e05f1b00-ba3e-11eb-8fdc-0c03148378b9.png)  
